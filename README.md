@@ -1,1 +1,1 @@
-# gotraining-refugio
+# gotraining
